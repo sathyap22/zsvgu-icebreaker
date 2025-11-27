@@ -6,7 +6,7 @@ WATSONX_PROJECT_ID = "skills-network"
 
 # Model settings
 LLM_MODEL_ID = "ibm/granite-3-2-8b-instruct"
-EMBEDDING_MODEL_ID = "ibm/slate-125m-english-rtrvr"
+EMBEDDING_MODEL_ID = "ibm/slate-125m-english-rtrvr-v2"
 
 # ProxyCurl API settings
 PROXYCURL_API_KEY = ""  # Replace with your API key
